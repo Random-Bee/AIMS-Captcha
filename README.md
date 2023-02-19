@@ -12,4 +12,4 @@ The data is preprocessed by converting the image into grayscale. The characters 
 
 ## Training
 
-Now we just need to train the model. We can use any deep learning model for this. I have used a simple CNN model for this. The model is trained for 10 epochs. The model is saved in the Model folder.
+Now we just need to train the model. We can use any deep learning model for this. I have used a simple CNN model written in tensorflow for this. The model is trained for 10 epochs. The model is saved in the Model folder.
